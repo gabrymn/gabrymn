@@ -1,5 +1,5 @@
 # Hi there o7 <br>
-I am Gabriele, a Computer Science student. 
+##I am Gabriele, a Computer Science student. 
 <br/><br/>
 Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons.
 
