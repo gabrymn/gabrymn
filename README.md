@@ -1,5 +1,5 @@
 # Hi there o7 <br>
-I Am Gabriele, a Computer Science student 
+I am Gabriele, a Computer Science student 
 
 
 # Profile Statistics
