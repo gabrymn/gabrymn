@@ -1,4 +1,6 @@
 # Hi there, I'm Gabriele
+<hr>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
