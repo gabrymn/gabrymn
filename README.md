@@ -1,4 +1,4 @@
-# Hi there <br>
+# Hi there o7 <br>
 I'm Gabriele, a computer science student 
 
 
