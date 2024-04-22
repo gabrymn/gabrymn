@@ -1,7 +1,7 @@
 # Hi there, I'm Gabriele, a computer science student 
 
 
-# Github Profile Statistics
+# Profile Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
