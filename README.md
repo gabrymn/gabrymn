@@ -5,6 +5,17 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 # My Skills
 
+
+## FrontEnd
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+  </a>
+</p>
+
+## BackEnd
+
 ## DevOps
 
 <p align="center">
