@@ -8,7 +8,7 @@
 <p align="center"><strong> I am Gabriele, a Computer Science student </strong></p> 
 
 <br/>
-Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons
+Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. <!--I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons-->
 
 <br /><br />
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
