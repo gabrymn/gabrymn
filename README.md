@@ -11,7 +11,7 @@
 Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. <!--I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons-->
 
 <br /><br />
-<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img  src="gif/redline.gif">
 
 # <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="35px" style="vertical-align:middle;"> Skill sets
 
@@ -35,7 +35,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) |
 
 <br /><br />
-<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img  src="gif/redline.gif">
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> Github Stats
 
