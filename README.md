@@ -18,7 +18,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,python,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,python,mysql,mongodb,java,rust" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,bash,vim" />
   </a>
 </p>
 
