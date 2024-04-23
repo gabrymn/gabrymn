@@ -13,13 +13,13 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 |--------------------------|
 | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) |
 
-## Backend
+### Backend
 
 | Languages and Databases |
 |-------------------------|
 | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python)  ![Java](https://skillicons.dev/icons?i=java) ![Rust](https://skillicons.dev/icons?i=rust) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
 
-## DevOps
+### DevOps
 
 | Tools and Systems |
 |-------------------|
