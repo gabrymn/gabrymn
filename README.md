@@ -5,30 +5,24 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 # My Skills
 
+## Frontend
 
-## FrontEnd
+| Languages and Frameworks |
+|--------------------------|
+| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-  </a>
-</p>
+## Backend
 
-## BackEnd
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,php,python,mysql,mongodb,java,rust" />
-  </a>
-</p>
+| Languages and Databases |
+|-------------------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Java](https://skillicons.dev/icons?i=java) ![Rust](https://skillicons.dev/icons?i=rust) |
 
 ## DevOps
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,bash,vim" />
-  </a>
-</p>
+| Tools and Systems |
+|-------------------|
+| ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Vim](https://skillicons.dev/icons?i=vim) |
+
 
 # Github Stats
 
