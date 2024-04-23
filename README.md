@@ -1,4 +1,4 @@
-<p align="center"><img src="gif/hello3.gif" alt="GIF" width="40%" height="auto"></p>
+<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>
 <!--## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
 <p align="center"><strong>I'm Gabriele, a CS student</strong></p>
 
