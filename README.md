@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <strong> I am Gabriele, a Computer Science student. </strong> 
 <br/><br/>
-Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons.
+Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons
 
 <br />
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
