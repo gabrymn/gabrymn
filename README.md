@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="hello.gif" alt="GIF" width="40%" height="auto">
+    <img src="gif/hello.gif" alt="GIF" width="40%" height="auto">
 </p>
 <br />
 
