@@ -5,7 +5,6 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 <br />
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br />
 
 # My Skills
 
@@ -27,9 +26,8 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 |-------------------|
 | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) |
 
-<br />
+<br /><br />
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br />
 
 # Github Stats
 
