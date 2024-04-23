@@ -36,7 +36,8 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 <br /><br />
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# Github Stats
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="25">
+Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
