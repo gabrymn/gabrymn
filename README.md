@@ -27,7 +27,7 @@ Throughout my experience in the field of computer science, I've acquired the fun
 
 | Tools and Systems |
 |-------------------|
-| ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) |
+| ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) ![CMake](https://skillicons.dev/icons?i=cmake) |
 
 <br /><br />
 <img  src="gif/redline.gif">
