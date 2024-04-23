@@ -3,54 +3,26 @@
 <br/><br/>
 Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons.
 
-## My Skill Set
+# My Skills
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### Frontend
+## Frontend
 
-<div align="center">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" />
-</div>
+| Languages and Frameworks |
+|--------------------------|
+| ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) |
 
-    </td>
-    <td valign="top" width="33%">
-      
-### Backend
+## Backend
 
-<div align="center">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" />
-</div>
+| Languages and Databases |
+|-------------------------|
+| ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Java](https://skillicons.dev/icons?i=java) ![Rust](https://skillicons.dev/icons?i=rust) |
 
-    </td>
-    <td valign="top" width="33%">
-      
-### DevOps
+## DevOps
 
-<div align="center">
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" />
-  <img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" />
-</div>
+| Tools and Systems |
+|-------------------|
+| ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Vim](https://skillicons.dev/icons?i=vim) |
 
-    </td>
-  </tr>
-</table>
 
 # Github Stats
 
