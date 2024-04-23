@@ -24,8 +24,6 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 | Tools and Systems |
 |-------------------|
- https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif
-
 | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) |
 
 <br /><br />
