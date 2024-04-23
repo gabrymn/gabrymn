@@ -12,7 +12,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 <br /><br />
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="50px" style="vertical-align:middle;"> Skill sets
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="35px" style="vertical-align:middle;"> Skill sets
 
 
 ### Frontend
