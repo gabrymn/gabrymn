@@ -12,7 +12,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 <br /><br />
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="25px" style="vertical-align:middle;"> Skill sets
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="50px" style="vertical-align:middle;"> Skill sets
 
 
 ### Frontend
@@ -36,7 +36,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 <br /><br />
 <img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50"> Github Stats
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
