@@ -16,6 +16,12 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 ## BackEnd
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,php,python,mysql,mongodb" />
+  </a>
+</p>
+
 ## DevOps
 
 <p align="center">
