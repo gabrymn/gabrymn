@@ -4,7 +4,7 @@
 Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons
 
 <br /><br />
-<img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # My Skills
 
