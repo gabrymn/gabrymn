@@ -7,7 +7,7 @@ Throughout my experience in this field, I've acquired the fundamentals of softwa
 
 # My Skills
 
-Frontend
+### Frontend
 
 | Languages and Frameworks |
 |--------------------------|
