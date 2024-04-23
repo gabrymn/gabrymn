@@ -1,10 +1,7 @@
 
-<br />
-
 <p align="center">
     <img src="hello.gif" alt="GIF" width="40%" height="auto">
 </p>
-<br />
 <br />
 
 <!--## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
