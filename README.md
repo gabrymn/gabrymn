@@ -1,7 +1,6 @@
 <p align="center"><img src="gif/hello3.gif" alt="GIF"></p>
 <!--## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">-->
-<p align="center"><h1>I'm Gabriele, a CS student</h1></p>
-
+<p align="center" style="font-size: 100px">I'm Gabriele, a CS student</p>
 
 <br/>
 Throughout my experience in this field, I've acquired the fundamentals of software design and implementation. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition. <!--I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons-->
