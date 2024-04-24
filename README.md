@@ -34,7 +34,8 @@ Throughout my experience in the field of computer science, I've acquired the fou
 <br /><br />
 <img  src="gif/redline.gif">
 
-# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> My Stats
+<!--# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> My Stats-->
+# • My Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
