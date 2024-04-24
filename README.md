@@ -56,11 +56,11 @@ Throughout my experience in the field of computer science, I've acquired the fou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=secure-cloud&theme=radical)](https://github.com/gabrielemigliorinii/secure-cloud)
 </div>
 
-<!--![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=THEME_NAME&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=default&hide_border=false&include_all_commits=true&count_private=true)
 <br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielemigliorinii&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielemigliorinii&theme=radical&hide_border=false)
 <br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemigliorinii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemigliorinii&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
