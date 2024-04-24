@@ -27,10 +27,11 @@ Throughout my experience in the field of computer science, I've acquired the fou
 | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Rust](https://skillicons.dev/icons?i=rust) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
 
 ### DevOps
-
+<div align="center"
 | Tools and Systems |
 |-------------------|
 | ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Linux](https://skillicons.dev/icons?i=linux) ![Bash](https://skillicons.dev/icons?i=bash) ![Nginx](https://skillicons.dev/icons?i=nginx) ![CMake](https://skillicons.dev/icons?i=cmake) |
+</div>
 
 <br /><br />
 <img  src="gif/redline.gif">
