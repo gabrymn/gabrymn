@@ -1,10 +1,7 @@
-<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>
-
-![#](gif/hello3.gif#gh-light-mode-only)![#](gif/hello3.gif#gh-dark-mode-only)
-
-
+![#](gif/hello-light.gif#gh-light-mode-only)![#](gif/hello-dark.gif#gh-dark-mode-only)
 <h2 align="center">My name's Gabriele</h2>
 
+<!--<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>-->
 
 <br/>
 Throughout my experience in the field of computer science, I've acquired the foundations of software development. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition
