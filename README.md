@@ -52,9 +52,17 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 <div align="center">
 
-![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true#gh-dark-mode-only)
-![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=default&show_icons=true#gh-light-mode-only)
+<details>
+  <summary>Dark Mode Stats</summary>
+  
+  ![Dark Mode Stats](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true)
+</details>
 
+<details>
+  <summary>Light Mode Stats</summary>
+  
+  ![Light Mode Stats](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=default&show_icons=true)
+</details>
 </div>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=THEME_NAME&hide_border=false&include_all_commits=true&count_private=true)
