@@ -16,15 +16,23 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 ### Frontend
 
+<div align="center">
+ 
 | Languages and Frameworks |
 |--------------------------|
 | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![React](https://skillicons.dev/icons?i=react) |
 
+</div>
+
 ### Backend
 
+<div align="center">
+ 
 | Languages and Databases |
 |-------------------------|
 | ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Rust](https://skillicons.dev/icons?i=rust) ![PHP](https://skillicons.dev/icons?i=php) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) |
+
+</div>
 
 ### DevOps
 
