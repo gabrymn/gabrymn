@@ -1,6 +1,6 @@
 <!--<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>-->
 
-![#](gif/hello3.gif#gh-light-mode-only)![#](gif/hello3.gif#gh-dark-mode-only)
+![#](gif/hello3.gif#gh-light-mode-only)![#](gif/redline.gif#gh-dark-mode-only)
 
 
 <h2 align="center">My name's Gabriele</h2>
