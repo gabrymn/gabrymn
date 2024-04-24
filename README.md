@@ -1,4 +1,4 @@
-#<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>
+<!--<p align="center"><img src="gif/hello3.gif" alt="GIF"></p>-->
 
 ![#](gif/hello3.gif#gh-light-mode-only)![#](gif/hello3.gif#gh-dark-mode-only)
 
