@@ -52,8 +52,8 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 <div align="center">
 
-![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true#gh-dark-mode-only)![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=default&show_icons=true#gh-light-mode-only)
-
+![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=secure-cloud&theme=radical)](https://github.com/gabrielemigliorinii/secure-cloud)
 </div>
 
 <!--![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=THEME_NAME&hide_border=false&include_all_commits=true&count_private=true)
