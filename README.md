@@ -52,15 +52,11 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 <div align="center">
 
-![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=secure-cloud&theme=radical)](https://github.com/gabrielemigliorinii/secure-cloud)
-</div>
+![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=tokyonight&show_icons=true)
+<br/><br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=my-own-git&theme=tokyonight)](https://github.com/gabrielemigliorinii/my-own-git)
 
-![](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielemigliorinii&theme=radical&hide_border=false)
-<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielemigliorinii&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 
 
