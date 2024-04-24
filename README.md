@@ -52,7 +52,8 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 <div align="center">
 
-![gabrielemigliorinii's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true)
+![gabrielemigliorinii's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=radical&show_icons=true#gh-dark-mode-only)
+
 
 </div>
 
