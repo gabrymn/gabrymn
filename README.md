@@ -14,9 +14,9 @@ Throughout my experience in the field of computer science, I've acquired the fou
 <!--# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="35px"> My Skills-->
 # • My Skills
 
-### Frontend
-
 <div align="center">
+
+### Frontend
  
 | Languages and Frameworks |
 |--------------------------|
@@ -24,9 +24,9 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 </div>
 
-### Backend
-
 <div align="center">
+
+### Backend
  
 | Languages and Databases |
 |-------------------------|
@@ -34,9 +34,9 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 </div>
 
-### DevOps
-
 <div align="center">
+
+### DevOps
 
 | Tools and Systems |
 |-------------------|
