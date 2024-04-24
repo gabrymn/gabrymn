@@ -49,7 +49,7 @@ Throughout my experience in the field of computer science, I've acquired the fou
 
 <!--# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> My Stats-->
 # • My Stats
-
+<br />
 <div align="center">
 
 ![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=tokyonight&show_icons=true)
@@ -57,6 +57,4 @@ Throughout my experience in the field of computer science, I've acquired the fou
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=my-own-git&theme=tokyonight)](https://github.com/gabrielemigliorinii/my-own-git)
 
 </div>
-
-
 
