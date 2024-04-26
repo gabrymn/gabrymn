@@ -10,7 +10,7 @@ Throughout my experience in the field of computer science, I've acquired the fou
 <img  src="gif/redline.gif">
 
 <!--# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="GIF" height="35px"> My Skills-->
-# • My Skills
+# My Skills
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Throughout my experience in the field of computer science, I've acquired the fou
 <img  src="gif/redline.gif">
 
 <!--# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" height="50px"> My Stats-->
-# • My Stats
+# My Stats
 <br />
 <div align="center">
 
