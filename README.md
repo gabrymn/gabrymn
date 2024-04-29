@@ -50,9 +50,9 @@ Throughout my experience in the field of computer science, I've acquired the fou
 <br />
 <div align="center">
 
-![#](https://github-readme-stats.vercel.app/api?username=gabrielemigliorinii&theme=tokyonight&show_icons=true)
+![#](https://github-readme-stats.vercel.app/api?username=gabrymn&theme=tokyonight&show_icons=true)
 <br/><br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrielemigliorinii&repo=my-own-git&theme=tokyonight)](https://github.com/gabrielemigliorinii/my-own-git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabrymn&repo=my-own-git&theme=tokyonight)](https://github.com/gabrymn/my-own-git)
 
 </div>
 
