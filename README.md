@@ -2,7 +2,7 @@
 <h2 align="center">My name's Gabriele</h2>
 
 <br/>
-Throughout my experience in the field of computer science, I've acquired the foundations of software development. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition
+<!--Throughout my experience in the field of computer science, I've acquired the foundations of software development. This has equipped me to swiftly grasp new technologies, allowing me to bring new ideas to fruition-->
 
  <!--I firmly believe in the power of continuous learning and am always eager to expand my knowledge horizons-->
 
